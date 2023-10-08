@@ -32,4 +32,4 @@
 
 ## Preview
 
-![eos-fundraising-preview](https://github.com/AstrooBoyy/EosFundraising/assets/101609744/d881ad4e-7d66-4600-bef4-e7ded03647bb)
+![eos-fundraising-preview](/eos-fundraising-preview.png)
